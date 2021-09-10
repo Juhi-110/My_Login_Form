@@ -1,0 +1,44 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+    text-decoration: none;
+  }
+  
+  body{
+    background: linear-gradient(100deg,#9c023d,#1916cf,#1873c9);
+}
+.box h1{
+    text-align: center;
+    font-weight: 600;
+  }
+  
+  a {
+    text-decoration: none;
+    transition: .7s;
+    color: #0f077e;
+  }
+  .box{
+    width: 400px;
+    height: 500px;
+    background-color: #ecdce7;
+    margin: 10% auto;
+    padding: 30px;
+    border-radius: 10px;
+  
+  }
+  
+  .box .form-group{
+    margin-bottom: 1px;
+    width: 100%;
+  }
+  
+  .box .form-group .btn{
+    background-color:#c25050;
+    width: 100%;
+    font-weight: 600;
+    border-radius: 10px;
+  }
+  .sign-in a{
+      font-size: 19px;
+  }
